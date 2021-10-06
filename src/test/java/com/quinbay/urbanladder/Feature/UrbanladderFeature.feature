@@ -2,10 +2,7 @@ Feature: Test Urbanladder
   Background: User navigates to Urbanladder
     Given I am on Urbanladder Home page
 
-  Scenario: Kids Storage Cabinets
-    When I hover Kids room
-    Then Check Kids Storage Cabinets
-    And Close Driver
+
 
   Scenario: Assert Kids Bunk Beds Page
     When I hover Kids room
@@ -56,3 +53,4 @@ Feature: Test Urbanladder
 
 
 
+#First feature deleted
