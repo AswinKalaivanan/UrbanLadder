@@ -54,3 +54,4 @@ Feature: Test Urbanladder
   Scenario: Version1.01
 
 #First feature deleted
+  Scenario: Version 1

@@ -9,11 +9,8 @@
         <module name="UrbanLadder" />
       </profile>
     </annotationProcessing>
-<<<<<<< HEAD
     <bytecodeTargetLevel>
       <module name="UrbanLadder" target="1.8" />
     </bytecodeTargetLevel>
-=======
->>>>>>> version1
   </component>
 </project>
