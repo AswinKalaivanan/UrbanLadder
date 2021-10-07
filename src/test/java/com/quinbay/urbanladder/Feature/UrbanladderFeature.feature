@@ -4,11 +4,6 @@ Feature: Test Urbanladder
 
 
 
-  Scenario: Assert Kids Bunk Beds Page
-    When I hover Kids room
-    And I click kids bunk beds
-    Then Check the current page as Kids Bunk Beds
-    And Close Driver
 
   Scenario: Assert Exclude Out of Stock
     When I hover Kids room
