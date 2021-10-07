@@ -47,6 +47,3 @@ Feature: Test Urbanladder
     And Close Driver
 
 
-
-#First feature deleted
-  Scenario: Version 1
